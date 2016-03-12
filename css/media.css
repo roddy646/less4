@@ -1,0 +1,52 @@
+@media (max-width:800px) {
+    .menu2 {
+        width: 100%;
+    }
+    .menu2 li {
+        display: block;
+        width: 100%;
+    }
+    .menu3 {}
+    .menu3 a {
+        width: 100%;
+        display: block;
+    }
+    .leftColumn {
+        width: 100%;
+    }
+    .ul-li {
+        display: none;
+    }
+    .rightColumn {
+        display: none;
+    }
+    .buttons,
+    .h,
+    .lorem,
+    .mar {
+        display: none;
+    }
+    .leftMessage,
+    .rightMessage {
+        display: none;
+    }
+    .footer1, .footer2, .footer3, .social {
+        width: 100%;
+        height: 50px;
+        float: none;
+    }
+   .two,.three, .four, .lineList{
+   	display: none;
+   }
+    
+    .list-item1, .list-item2, .Table-caption, .description {
+  float: none;
+  width: 100%;
+  padding: 10px 0;
+  border: none;
+}
+ 
+ 
+
+
+}
